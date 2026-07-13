@@ -1,6 +1,8 @@
 <h1 align="center">
   Hi! <br>
+  <br>
   Welcome to my page. 
+  <br>
 <br> I'm Joshua Hollis <br> 
 
 <p align="center">
