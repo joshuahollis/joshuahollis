@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi! <br>
-  Welcome to my page
-  Joshua Hollis
+  Welcome to my page. 
+<br> I'm Joshua Hollis <br> 
 
 <p align="center">
   <a href="https://github.com/JoshuaHollis">
