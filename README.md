@@ -1,5 +1,17 @@
+
+## Hi there 👋
+
+<h1 align="center">
+  Hi! Welcome to my page
+  <a target="_blank">
+    <img align= "center" width= "40" src= "https://cdn.discordapp.com/emojis/816106291993903134.gif?v=1"/>
+  </a>
+</h1>
+
+<!--
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/JoshuaHollis">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
 </p>
 
@@ -47,7 +59,7 @@
 <!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+    <img src="https://github.com/JoshuaHollis" alt="GitHub Star 2023"/></a>
 </p>
 
 <details open> 
@@ -296,26 +308,3 @@
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
 </details>
 
-## Hi there 👋
-
-<h1 align="center">
-  Hi! Welcome to my page
-  <a target="_blank">
-    <img align= "center" width= "40" src= "https://cdn.discordapp.com/emojis/816106291993903134.gif?v=1"/>
-  </a>
-</h1>
-
-<!--
-**joshuahollis/joshuahollis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
