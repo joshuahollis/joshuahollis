@@ -7,9 +7,6 @@
   </a>
 </h1>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=joshuahollis&theme=dark&show_icons=true" width="45%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuahollis&layout=compact&theme=dark" width="45%"/>
-
 <!--
 **joshuahollis/joshuahollis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
