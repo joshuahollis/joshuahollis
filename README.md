@@ -8,29 +8,22 @@
 <!--
 
 <p align="center">
- <a href="https://github.com/JoshuaHollis">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Founder%20of%20Movez;Creative%20Technologist;Full-Stack%20Engineer;AI%20Builder;Startup%20Founder&font=Fira%20Code&center=true&width=600&height=50&color=000000&vCenter=true&pause=1000&size=24" /></a>
-    
+  <a href="https://youtube.com/@JoshOfficial">
+    <img src="https://cdn.simpleicons.org/youtube/000000" width="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/joshuahollis">
+    <img src="https://cdn.simpleicons.org/linkedin/000000" width="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Jmovez">
+    <img src="https://cdn.simpleicons.org/x/000000" width="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://joshhollis.dev">
+    <img src="https://cdn.simpleicons.org/googlechrome/000000" width="32" />
+  </a>
 </p>
-
-<p align="center">
-  <!-- Typing SVG by JoshuaHollis - https://github.com/JoshuaHollis -->
-  <a href="https://github.com/joshuahollis">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/JoshOfficial"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/joshuahollis/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Jmovez"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://joshhollis.dev"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-<br/>
 
  
   <h3>👨‍💻 Programming and Markup Languages</h3>
