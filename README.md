@@ -1,9 +1,5 @@
 <h1 align="center">
   Hi! Welcome to my page
-  <a target="_blank">
-    <img align="center" width="40" src="https://cdn.discordapp.com/emojis/816106291993903134.gif?v=1" alt="wave" />
-  </a>
-</h1>
 
 <p align="center">
   <a href="https://github.com/JoshuaHollis">
