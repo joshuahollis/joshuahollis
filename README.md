@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Hi! Welcome to my page
   <a target="_blank">
@@ -9,8 +8,9 @@
 <!--
 
 <p align="center">
-  <a href="https://github.com/JoshuaHollis">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Joshua Hollis" /></a>
+ <a href="https://github.com/JoshuaHollis">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Founder%20of%20Movez;Creative%20Technologist;Full-Stack%20Engineer;AI%20Builder;Startup%20Founder&font=Fira%20Code&center=true&width=600&height=50&color=000000&vCenter=true&pause=1000&size=24" /></a>
+    
 </p>
 
 <p align="center">
