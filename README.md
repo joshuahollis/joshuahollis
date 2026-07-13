@@ -1,29 +1,4 @@
-<h1 align="center">
-  Hi! Welcome to my page
-  <a target="_blank">
-    <img align= "center" width= "40" src= "https://cdn.discordapp.com/emojis/816106291993903134.gif?v=1"/>
-  </a>
-</h1>
 
-<!--
-
-<p align="center">
-  <a href="https://youtube.com/@JoshOfficial">
-    <img src="https://cdn.simpleicons.org/youtube/000000" width="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/joshuahollis">
-    <img src="https://cdn.simpleicons.org/linkedin/000000" width="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/Jmovez">
-    <img src="https://cdn.simpleicons.org/x/000000" width="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://joshhollis.dev">
-    <img src="https://cdn.simpleicons.org/googlechrome/000000" width="32" />
-  </a>
-</p>
  
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
