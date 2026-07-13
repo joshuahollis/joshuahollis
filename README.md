@@ -24,7 +24,6 @@
     <img src="https://cdn.simpleicons.org/googlechrome/000000" width="32" />
   </a>
 </p>
-
  
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
